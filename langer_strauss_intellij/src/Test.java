@@ -25,6 +25,10 @@ public class Test {
 
             System.out.println("This Method just made a bugfix");
         }
+        
+        public void newTestFromOtherGroup() {
+        	System.out.println("Stiegl is des beste Bier 😜");
+        }
 
 }
 
