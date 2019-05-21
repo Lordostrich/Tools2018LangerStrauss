@@ -5,17 +5,19 @@ public class Test {
 
 
     public void thisIsANewMethod() {
-
-
+        System.out.println("LoC stands for Lines of Code");
+        System.out.println("hätte man auch ausschreiben können");
     }
         public static void main(String[] args){
 
+            System.out.println("PRO rulez");
 
             System.out.println("conflict");
             System.out.println("This is a Test-Program");
             System.out.println("Another Line");
 
             System.out.println("Benedikt");
+            System.out.println("Lukas");
 
         }
 
