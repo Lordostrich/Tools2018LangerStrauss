@@ -26,5 +26,7 @@ public class Test {
             System.out.println("This Method just made a bugfix");
         }
 
+        public void nichtTest(){}
+    
 }
 
