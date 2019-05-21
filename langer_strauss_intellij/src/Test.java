@@ -30,5 +30,7 @@ public class Test {
         	System.out.println("Stiegl is des beste Bier 😜");
         }
 
+        public void nichtTest(){}
+    
 }
 
