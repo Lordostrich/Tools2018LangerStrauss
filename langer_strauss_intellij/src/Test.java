@@ -19,5 +19,10 @@ public class Test {
 
         }
 
+        public void bugfix(){
+
+            System.out.println("This Method just made a bugfix");
+        }
+
 }
 
